@@ -16,7 +16,7 @@ The assets in this repository are meant for reference and planning in WordPress 
 
 ## Contact
 
-For queries, contact me at ch.hsyahmedgoheer@hotmail.com.
+For queries, contact me at [ch.hsyahmedgoheer@hotmail.com](mailto:ch.hsyahmedgoheer@hotmail.com).
 
 <!---
 Repository URL: https://github.com/[your-username]/[repository-name]
